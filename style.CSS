@@ -1,0 +1,15 @@
+body{
+    margin : 0;
+    padding : 0;
+    background-color: #EEE993;
+}
+.navbar{
+    height: 80px;
+    background-color: aqua;
+    font-size: 1rem;  
+    color:white;
+    align-items: center;
+}
+.h1{
+    color:white;
+}
